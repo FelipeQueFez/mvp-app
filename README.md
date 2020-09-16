@@ -2,7 +2,7 @@
 Projeto Fiap para criação de um app
 
 # Fluxo de telas
-![test image size](/assets/preview/01.png){:height="50%" width="50%"}
+<img src="/assets/preview/01.png" width="200px">
 
 # Funcionalidades do app
 - Login a partir de conta Google
