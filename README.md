@@ -2,12 +2,8 @@
 Projeto Fiap para criação de um app
 
 # Fluxo de telas
-![Alt text](/assets/preview/01.png?raw=true "Optional Title")
-![Alt text](/assets/preview/02.png?raw=true "Optional Title")
-![Alt text](/assets/preview/03.png?raw=true "Optional Title")
-![Alt text](/assets/preview/04.png?raw=true "Optional Title")
-![Alt text](/assets/preview/05.png?raw=true "Optional Title")
-![Alt text](/assets/preview/06.png?raw=true "Optional Title")
+![Alt text](/assets/preview/01.png?raw=true "Optional Title") <!-- .element height="50%" width="50%" -->
+![An image](images/an_image.jpg) <!-- .element height="50%" width="50%" -->
 
 # Funcionalidades do app
 - Login a partir de conta Google
