@@ -1,10 +1,12 @@
 # Mvp-app
 Projeto Fiap para criação de um app
 
+Objetivo do app - Tirar o casal da rotina, guardar experiências e criar novas memórias
+
 # Funcionalidades do app
 - Login a partir de conta Google
 - Linha do tempo
-    - Criar um item na linha do tempo a partir de fotos da galeria ou camera
+    - Criar um item na linha do tempo a partir de fotos da galeria ou câmera
 - Logout
 
 # Tecnologias e Conceitos
