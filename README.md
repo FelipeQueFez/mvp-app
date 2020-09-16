@@ -1,4 +1,4 @@
-# mvp-app
+# Mvp-app
 Projeto Fiap para criação de um app
 
 # Fluxo de telas
@@ -19,6 +19,6 @@ Projeto Fiap para criação de um app
     - Auth
         - Google
 - Visual Studio Code
-- Injeção de depenência (pacote chamada "GetIt")
+- Injeção de dependência (pacote chamada "GetIt")
 - Padrões Factory e Singleton
 - Utilização de temas, para possibilidar a troca de cores sem grandes problemas
